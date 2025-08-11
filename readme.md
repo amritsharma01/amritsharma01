@@ -1,73 +1,43 @@
-<!-- Profile README for Amrit Sharma -->
+# 👋 Hi, I'm Amrit Sharma!
 
-<h1 align="center">Hi 👋, I'm Amrit Sharma</h1>
-<p align="center">
-  <a href="https://sharmaamrit.com.np/" target="_blank"><strong>🌐 Portfolio</strong></a> •
-  <a href="https://linkedin.com/in/amrit-sharma999" target="_blank"><strong>🔗 LinkedIn</strong></a>
-</p>
+Welcome to my GitHub profile! I'm a dedicated **Backend Engineer** with a passion for building **scalable**, **modular**, and **high-performance systems**. I thrive on solving complex problems using Go, Python, and PostgreSQL, and I enjoy architecting clean, testable code.
 
 ---
 
+## 💼 Open to Remote Backend Opportunities & Collaborations
+
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amritsharma01&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=amritsharma01&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <a href="https://github.com/amrit-sharma">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AFFA3&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Golang+%26+Python;Scalable+APIs+%7C+PostgreSQL+%7C+Microservices;Distributed+Systems+%7C+Cloud+%7C+Docker+%7C+K8s;Continuous+Learner+%26+Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
-  
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritsharma01&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-  
-</td>
-</tr>
-</table>
 </p>
 
 ---
 
-## 🚀 About Me
-
-I'm a backend engineer passionate about building robust, scalable, and efficient systems. I specialize in **Go**, **Python**, and **PostgreSQL**, and love crafting clean architecture with real-world impact. I'm currently working at Raralabs and always eager to learn and collaborate.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
+## 🧰 Tech Stack
+- **Languages**: Go, Python, SQL, JavaScript (basic)
+- **Backend**: Gin, Echo, Django, REST APIs, Microservices
+- **Database**: PostgreSQL, Redis
+- **Tools**: Docker, Kubernetes, Git, Jenkins, Prometheus, Grafana
+- **Others**: Webhooks, Celery, SendGrid, AWS SES
 
 ---
 
-## 📫 Contact
-
-Feel free to reach out via:
-
-- 🌐 Website: [sharmaamrit.com.np](https://sharmaamrit.com.np)
-- 💼 LinkedIn: [linkedin.com/in/amrit-sharma999](https://linkedin.com/in/amrit-sharma999)
-- 📧 Email: [toamritsharma@gmail.com](mailto:toamritsharma@gmail.com)
+📫 **Reach me at**: [amritsharma1027@gmail.com](mailto:amritsharma1027@gmail.com)
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
-  <b>— Cory House</b>
-</p>
+## 📊 GitHub Stats & Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amrit-sharma&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-sharma&layout=compact&theme=tokyonight)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amrit-sharma&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Visitor Badge](https://komarev.com/ghpvc/?username=amrit-sharma&color=blue&style=flat)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amritsharma01&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+---
+
+## 🏆 GitHub Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=amrit-sharma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+🧠 Always learning. Always building. Let’s connect and create something awesome!
