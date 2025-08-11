@@ -15,11 +15,10 @@ Welcome to my GitHub profile! I'm a dedicated **Backend Engineer** with a passio
 ---
 
 ## 🧰 Tech Stack
-- **Languages**: Go, Python, SQL, JavaScript (basic)
-- **Backend**: Gin, Echo, Django, REST APIs, Microservices
-- **Database**: PostgreSQL, Redis
+- **Languages**: Go, Python, SQL
+- **Backend**: Echo, Django, REST APIs, Microservices
+- **Database**: PostgreSQL, MySQL
 - **Tools**: Docker, Kubernetes, Git, Jenkins, Prometheus, Grafana
-- **Others**: Webhooks, Celery, SendGrid, AWS SES
 
 ---
 
@@ -32,11 +31,6 @@ Welcome to my GitHub profile! I'm a dedicated **Backend Engineer** with a passio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-sharma&layout=compact&theme=tokyonight)
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amrit-sharma&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=amrit-sharma&color=blue&style=flat)
-
----
-
-## 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=amrit-sharma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
