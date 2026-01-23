@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated **Backend Engineer** with a passio
 
 <p align="center">
   <a href="https://github.com/amritsharma01">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AFFA3&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Golang+%26+Python;Scalable+APIs+%7C+PostgreSQL+%7C+Microservices;Distributed+Systems+%7C+Cloud+%7C+Docker+%7C+K8s;Continuous+Learner+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AFFA3&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Golang;Scalable+APIs+%7C+PostgreSQL;Distributed+Systems+%7C+Cloud+%7C+Docker;Continuous+Learner+%26+Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
